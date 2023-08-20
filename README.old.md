@@ -1,2 +1,0 @@
-# wads-sighnings
-working direcory
